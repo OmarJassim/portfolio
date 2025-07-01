@@ -10,10 +10,11 @@ Welcome! This portfolio is a compilation of my academic, professional, and passi
 
 ## 🏆 Achievements
 
-- Full-Ride Scholarship – [Full-Ride Academic Scholarship Reciepient] *(2019)*
+- Recipient of Full-Ride Academic Scholarship.
+- Kent State University President's List x2, Dean's List x4
 - Finalist – [Crown Prince International Scholarship Program] *(2019)*
-- Winner – [VISAA Boys Basketball State Championship] *(2019)*
-- Research: [Paper Title](#) presented at [Conference Name] *(Year)*
+- Winner – [VISAA Boys Basketball State Championship] 
+- National Society of Leadership and Success Inductee
 - Full Merit Scholarship – [Institution Name]
 - [Any publication or notable result]
 
