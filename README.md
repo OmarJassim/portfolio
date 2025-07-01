@@ -10,13 +10,12 @@ Welcome! This portfolio is a compilation of my academic, professional, and passi
 
 ## 🏆 Achievements
 
-- Recipient of Full-Ride Academic Scholarship.
-- Kent State University President's List x2, Dean's List x4
-- Finalist – [Crown Prince International Scholarship Program] *(2019)*
-- Winner – [VISAA Boys Basketball State Championship] 
+- Full-Ride Academic Scholarship Recipient at Kent State Univeristy's Honors College.
+- Completed a Duel Degree Program with the Highest Honors and Distinction.
+- Honors include President's List (2x) and Dean's List (4x) for Academic Excellence
+- Finalist of the Crown Prince International Scholarship Program (CPISP 2019)
 - National Society of Leadership and Success Inductee
-- Full Merit Scholarship – [Institution Name]
-- [Any publication or notable result]
+- VISAA Boys Basketball State Champion
 
 ---
 
