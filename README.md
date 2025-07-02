@@ -24,11 +24,11 @@ Welcome! This portfolio is a compilation of my academic, professional, and passi
 ### [📉 Resilience in Pandemic: A Comparison of Productivity Shifts Across STEM & Non-STEM Occupations](https://github.com/yourusername/customer-churn-project)
 A natural experiment that aims to quantify and compare the effects of COVID-19 on labor productivity, with a focus on how these effects vary between STEM and Non-STEM occupational categories.
 
-### [🛒 Instacart Market Basket Analysis](https://github.com/yourusername/instacart-basket-analysis)
-Analyzed 3M+ transactions to predict next product order and cluster users. Applied affinity and segmentation analysis.
+### [🛒 Driving Change: The Effectiveness of Traffic Regulations in Reducing Fatalities](https://github.com/yourusername/instacart-basket-analysis)
+Leveraged public-use NHTSA panel data to conduct a natural experiment, obtaining robust DiD estimates that show the individual treatment effects of seven different traffic laws, providing key insights into their relative efficacies in reducing traffic fatalities
 
-### [📰 News Recommendation Engine](https://github.com/yourusername/news-recommender)
-Hybrid filtering system combining collaborative + content-based filtering of articles using tweet similarity and user interaction history.
+### [📰 Decades of Disparity: An Analysis of Income Inequality by Race and Gender](https://github.com/yourusername/news-recommender)
+Acquired, prepared, and visualized U.S. Census panel data to build three robust regression models, utilizing pooled OLS, two-way RE and LDV specifications to effectively isolate and demonstrate the impacts of race and gender on individual wage outcomes. 
 
 ### [✈️ Predictive Maintenance of Aircraft Engines](https://github.com/yourusername/aircraft-engine-prediction)
 Trained LSTM and 1D-CNN models to forecast engine failure 50 cycles ahead. Used SHAP values for explainability.
