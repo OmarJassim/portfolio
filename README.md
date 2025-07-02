@@ -11,7 +11,7 @@ Welcome! This portfolio is a compilation of my academic, professional, and passi
 ## 🏆 Achievements
 
 - Full-Ride Academic Scholarship Recipient at Kent State Univeristy's Honors College.
-- Completed a Duel Degree Program with the Highest Honors and Distinction.
+- Completed a Duel Degree Program, Graduating with the Highest Honors and Distinction.
 - Honors include President's List (2x) and Dean's List (4x) for Academic Excellence
 - Finalist of the Crown Prince International Scholarship Program (CPISP 2019)
 - National Society of Leadership and Success Inductee
@@ -21,8 +21,8 @@ Welcome! This portfolio is a compilation of my academic, professional, and passi
 
 ## 📁 Featured Projects
 
-### [📉 Customer Churn Analysis & Survival Modeling](https://github.com/yourusername/customer-churn-project)
-Used Kaplan-Meier Survival Curves and Random Forest classifiers to model churn risk over time. Deployed interactive Flask app on Heroku.
+### [📉 Resilience in Pandemic: A Comparison of Productivity Shifts Across STEM & Non-STEM Occupations](https://github.com/yourusername/customer-churn-project)
+A natural experiment that aims to quantify and compare the effects of COVID-19 on labor productivity, with a focus on how these effects vary between STEM and Non-STEM occupational categories.
 
 ### [🛒 Instacart Market Basket Analysis](https://github.com/yourusername/instacart-basket-analysis)
 Analyzed 3M+ transactions to predict next product order and cluster users. Applied affinity and segmentation analysis.
